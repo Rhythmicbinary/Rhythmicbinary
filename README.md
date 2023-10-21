@@ -34,7 +34,7 @@ I'm Mahdi Salehi, a Python programmer with a background in computer science and 
 
 I'm always open to discussing my work at Zharfpouyan, potential collaborations, or just connecting with fellow tech enthusiasts. Feel free to reach out to me via:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mahdi-salehi-1b174b194/)
+- **LinkedIn:** [Mahdi Salehi](https://www.linkedin.com/in/mahdi-salehi-1b174b194/)
 - **Email:** m.s13791017@gmail.com
 <!-- - **Portfolio Website:** [Your Portfolio Website](https://www.yourportfolio.com) -->
 
