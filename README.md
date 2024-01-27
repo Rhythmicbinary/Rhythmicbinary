@@ -4,7 +4,7 @@ I'm Mahdi Salehi, a Python programmer with a background in computer science and 
 
 ## 🚀 My Skills
 
-- **Programming Languages:** Python (8+ years of experience), C++, Java
+- **Programming Languages:** Python (4+ years of experience), C++, Java
 - **DevOps & Tools:** Docker, PyATS, Jenkins, Travis CI
 - **Network Technologies:** GNS3, Cisco Packet Tracer, Network Security, SDN, Cloud Networking
 
